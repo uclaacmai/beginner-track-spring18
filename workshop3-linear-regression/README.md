@@ -1,5 +1,5 @@
 # Linear Regression Workshop
-This is a beginner-friendly workshop on using linear regression to predict house prices in Boston.
+This is a beginner-friendly workshop on using linear regression to predict house prices in Boston. It is based off of Andrew Ng's course https://www.coursera.org/learn/neural-networks-deep-learning which we highly recommend for anyone interested in learning about deep learning.
 
 ## Using Google Colaboratory
 
