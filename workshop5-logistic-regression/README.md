@@ -12,4 +12,4 @@ This is a beginner-friendly workshop on using logistic regression to classify im
 2. Go to https://colab.research.google.com
 3. Click on new notebook
 4. Go to File -> upload notebook
-5. upload HOTH_2018_ML_Workshop.ipynb from where you saved the repository
+5. upload Dogs_vs_cats.ipynb from where you saved the repository
