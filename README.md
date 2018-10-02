@@ -8,3 +8,4 @@ Slides Links
 - [Workshop #4: Intro to Logistic Regression](https://docs.google.com/presentation/d/1LugpNP_eRqFX7Pvg5uJ637alceGuK5rsVw5UsRFW6ZM/edit?usp=sharing)
 - [Workshop #5: Using Logistic Regression to Classify Cats and Dogs](https://drive.google.com/open?id=12Zt1Yoy5aUkgyaGTwI0u3GJ-QunkEVaWQTEH8_Us02I)
 - [Workshop #6: Shallow Neural Networks](https://docs.google.com/presentation/d/1sNjxTGtRNIq1dUs95ZHfypqDIweumNJjykwZa3IT-X4/edit?usp=sharing)
+- [Workshop #7: Neural Networks Part 2](https://docs.google.com/presentation/d/1ikW4M_FS-c3F7IkHHNXIOI3wkB8EgPhoeyVc7JtJaTw/edit?usp=sharing)
